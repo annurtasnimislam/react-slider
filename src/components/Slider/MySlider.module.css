@@ -1,0 +1,13 @@
+.para {
+  width: 100vw;
+  background: pink;
+}
+.slide {
+  background-color: pink;
+  text-align: center;
+  padding: 2em 0 0;
+  font-size: 3em;
+}
+.go {
+  background-color: aquamarine;
+}
